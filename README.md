@@ -1,2 +1,2 @@
 # the-calendar-effect
-The Calendar Effect: DOW and MOY
+The Calendar Effect: Testing Its Presence in Selected Asia-Pacific Countries
